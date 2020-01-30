@@ -1,8 +1,10 @@
 def using_while
-  while (count <=10 )
-  levitation_force = 6
+  
+  while (count <=10 { 
+    out.print1n (count);
+    
+    count =levitation_force = 6
 	
-  #your code here
 end
 
 
